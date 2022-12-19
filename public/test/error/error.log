@@ -1,0 +1,12 @@
+[2022-12-09 18:35:51] Text error: Undefined variable: test  |  Файл: D:\SERVEROK\OSPanel\domains\newqwe\public\test\error\index.php  |  Строка: 67
+ ================================== 
+[2022-12-09 18:38:37] Text error: Uncaught TypeError: Argument 1 passed to ErrorHandler::exceptionHandler() must be an instance of Exception, instance of Error given in D:\SERVEROK\OSPanel\domains\newqwe\public\test\error\index.php:48
+Stack trace:
+#0 [internal function]: ErrorHandler->exceptionHandler()
+#1 {main}
+  thrown  |  Файл: D:\SERVEROK\OSPanel\domains\newqwe\public\test\error\index.php  |  Строка: 48
+ ================================== 
+[2022-12-09 18:39:49] Text error: Error Exeption  |  Файл: D:\SERVEROK\OSPanel\domains\newqwe\public\test\error\index.php  |  Строка: 69
+ ================================== 
+[2022-12-09 18:39:58] Text error:   |  Файл: D:\SERVEROK\OSPanel\domains\newqwe\public\test\error\index.php  |  Строка: 70
+ ================================== 
